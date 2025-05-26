@@ -1,0 +1,56 @@
+{
+    "Ads":[
+        {
+
+            "APP_STATUS" : "1",
+            "MORE_APPS_URL" : "https://play.google.com/store/apps/developer?id=YahyaSoft",
+            "PRIVACY_POLICY_URL" : "https://sites.google.com/view/yahyasoft",
+
+            "AD_STATUS" : "1",
+            "TYPE_AD_NETWORK": "admob - fan - google_ad_manager - startapp - unity - applovin - applovin_max - applovin_discovery - ironsource - fan_bidding_admob - fan_bidding_ad_manager - fan_bidding_applovin_max - fan_bidding_ironsource",
+            "AD_NETWORK" : "fan_bidding_admob",
+            "BACKUP_AD_NETWORK" : "none",
+
+            "ADMOB_PUBLISHER_ID" : "pub-4560005738823670",
+            "ADMOB_APP_ID": "ca-app-pub-4560005738823670~9227866296",
+            "ADMOB_BANNER_ID" : "ca-app-pub-4560005738823670/7531641241",
+            "ADMOB_INTERSTITIAL_ID" : "ca-app-pub-4560005738823670/7846254440",
+            "ADMOB_NATIVE_ID" : "ca-app-pub-4560005738823670/7444557391",
+            "ADMOB_APP_OPEN_AD_ID" : "0",
+ "ADMOB_APP_OPEN_AD_ID_OK" : "ca-app-pub-4560005738823670/2575374092",
+
+
+            "GOOGLE_AD_MANAGER_BANNER_ID": "/6499/example/banner",
+            "GOOGLE_AD_MANAGER_INTERSTITIAL_ID": "/6499/example/interstitial",
+            "GOOGLE_AD_MANAGER_NATIVE_ID": "/6499/example/native",
+            "GOOGLE_AD_MANAGER_APP_OPEN_AD_ID": "/6499/example/app-open",
+
+            "FAN_BANNER_ID" : "IMG_16_9_APP_INSTALL#1876822039344191_2064188257274234",
+            "FAN_INTERSTITIAL_ID" : "IMG_16_9_APP_INSTALL#1876822039344191_2064607693898957",
+            "FAN_NATIVE_ID" : "IMG_16_9_APP_INSTALL#1876822039344191_1885075901852138",
+
+            "STARTAPP_APP_ID" : "1",
+
+            "UNITY_GAME_ID": "4089993",
+            "UNITY_BANNER_ID": "banner",
+            "UNITY_INTERSTITIAL_ID": "video",
+
+            
+            "APPLOVIN_BANNER_ID": "374aa6271a741913",
+            "APPLOVIN_INTERSTITIAL_ID": "3eedbfcd01cef8d6",
+            "APPLOVIN_NATIVE_MANUAL_ID": "423f2f7405d26233",
+            "APPLOVIN_BANNER_ZONE_ID": "afb7122672e86340",
+            "APPLOVIN_INTERSTITIAL_ZONE_ID": "b6eba8b976279ea5",
+
+            "IRONSOURCE_APP_KEY": "85460dcd",
+            "IRONSOURCE_BANNER_ID": "DefaultBanner",
+            "IRONSOURCE_INTERSTITIAL_ID": "DefaultInterstitial",
+
+            "INTERSTITIAL_AD_INTERVAL" : 2,
+            "NATIVE_AD_INDEX" : 1,
+            "LEGACY_GDPR" : true,
+
+            "ONESIGNAL_APP_ID" : "defa9d11-a227-421e-99dc-199ca22e319b"
+        }
+    ]
+}

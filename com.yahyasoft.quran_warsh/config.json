@@ -1,0 +1,46 @@
+{
+  "settings": [
+    {
+      "app_status": "1",
+      "privacy_policy_url": "https://sites.google.com/view/yahyasoft-quranwarsh/privacy",
+      "more_apps_url": "https://play.google.com/store/apps/developer?id=YahyaSoft",
+      "redirect_url": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "1",
+      "TYPE_AD_NETWORK": "admob - fan - google_ad_manager - startapp - unity - applovin - applovin_max - applovin_discovery - ironsource - fan_bidding_admob - fan_bidding_ad_manager - fan_bidding_applovin_max - fan_bidding_ironsource",
+      "ad_type": "admob",
+      "backup_ads": "none",
+      "admob_publisher_id": "pub-4560005738823670",
+      "admob_banner_unit_id": "ca-app-pub-4560005738823670/4364870005",
+      "admob_interstitial_unit_id": "ca-app-pub-4560005738823670/7747928859",
+      "admob_native_unit_id": "ca-app-pub-4560005738823670/3808683843",
+      "admob_app_open_ad_unit_id": "ca-app-pub-4560005738823670/5486379986",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_ad_unit_id": "374aa6271a741913",
+      "applovin_interstitial_ad_unit_id": "3eedbfcd01cef8d6",
+      "applovin_native_ad_manual_unit_id": "423f2f7405d26233",
+      "applovin_banner_zone_id": "afb7122672e86340",
+      "applovin_interstitial_zone_id": "b6eba8b976279ea5",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_placement_name": "DefaultBanner",
+      "ironsource_interstitial_placement_name": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "legacy_gdpr": true,
+      "onesignal_app_id": "ebb5ade1-0db3-4895-a148-fc5c25159e3d",
+      "fcm_notification_topic": "your_single_radio_topic"
+    }
+  ]
+}
